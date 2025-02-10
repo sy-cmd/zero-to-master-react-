@@ -1,0 +1,7 @@
+where to deploy websites
+
+digital ocean
+aws
+google clound
+netlify
+vercel
